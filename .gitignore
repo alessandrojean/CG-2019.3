@@ -1,0 +1,12 @@
+# Folders.
+slides/
+pdfs/
+bin/
+
+# Editor stuff.
+.vscode/
+
+# Files.
+*.zip
+*.o
+*.pdf

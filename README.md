@@ -12,6 +12,9 @@ Federal University of ABC (UFABC).
 ## Schedule
 
 - **24/09/2019** *(Theory)*: Introduction and Graphic Primitives.
+- **01/10/2019** *(Laboratory)*: [Math Review and Implementation].
+
+[Math Review and Implementation]: laboratory/2019.10.01/
 
 ## Bibliography
 
