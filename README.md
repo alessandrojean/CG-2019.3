@@ -14,6 +14,7 @@ Federal University of ABC (UFABC).
 - **24/09/2019** *(Theory)*: Introduction and Graphic Primitives.
 - **01/10/2019** *(Laboratory)*: [Math Review and Implementation].
 - **03/10/2019** *(Theory)*: Linear Algebra Review.
+- **08/10/2019** *(Theory)*: Transformation matrices.
 
 [Math Review and Implementation]: laboratory/2019.10.01/
 
