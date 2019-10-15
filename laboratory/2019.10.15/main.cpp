@@ -59,7 +59,6 @@ int main(int argc, char** argv) {
   const char* vertexShaderText = vss.c_str();
   const char* fragmentShaderText = fss.c_str();
 
-
   GLuint vertexShader = glCreateShader(GL_VERTEX_SHADER);
   glShaderSource(vertexShader, 1, &vertexShaderText, nullptr);
   glCompileShader(vertexShader);
