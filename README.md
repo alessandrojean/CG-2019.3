@@ -17,6 +17,7 @@ Federal University of ABC (UFABC).
 - **08/10/2019** *(Theory)*: Transformation matrices.
 - **10/10/2019** *(Theory)*: Raster images.
 - **15/10/2019** *(Laboratory)*: [Vertex Buffer Objects and Shaders].
+- **17/10/2019** *(Theory)*: Ray Tracing.
 
 [Math Review and Implementation]: laboratory/2019.10.01/
 [Vertex Buffer Objects and Shaders]: laboratory/2019.10.15/
