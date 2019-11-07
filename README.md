@@ -22,9 +22,11 @@ Federal University of ABC (UFABC).
 - **29/10/2019** *(Theory)*: Graphics Pipeline.
 - **31/10/2019** *(Theory)*: **First test**.
 - **05/11/2019** *(Theory)*: Graphics Pipeline *(continuation)*.
+- **07/11/2019** *(Laboratory)*: [Transformation matrices implementation].
 
 [Math Review and Implementation]: laboratory/2019.10.01/
 [Vertex Buffer Objects and Shaders]: laboratory/2019.10.15/
+[Transformation matrices implementation]: laboratory/2019.11.07/
 
 ## Build instructions
 
