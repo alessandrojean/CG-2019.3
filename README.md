@@ -20,6 +20,8 @@ Federal University of ABC (UFABC).
 - **17/10/2019** *(Theory)*: Ray Tracing.
 - **22/10/2019** *(Theory)*: Ray Tracing *(continuation)*.
 - **29/10/2019** *(Theory)*: Graphics Pipeline.
+- **31/10/2019** *(Theory)*: **First test**.
+- **05/11/2019** *(Theory)*: Graphics Pipeline *(continuation)*.
 
 [Math Review and Implementation]: laboratory/2019.10.01/
 [Vertex Buffer Objects and Shaders]: laboratory/2019.10.15/
