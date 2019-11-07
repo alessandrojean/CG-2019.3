@@ -41,7 +41,14 @@ $ sudo apt-get install mesa-utils libglew-dev libglfw3 libglfw3-dev
 $ sudo pacman -S mesa-demos glfw glew
 ```
 
-To compile any project, just go to the correct folder and use `make`.
+You'll need CMake to compile any project, so make sure it's installed too.
+To compile, just go to the project folder and run the commands bellow.
+
+```bash
+$ cmake .
+$ make
+```
+
 The executable will be generated at the `bin` folder.
 
 [OpenGL]: https://www.opengl.org/

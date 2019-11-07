@@ -10,7 +10,7 @@
 
 using namespace std;
 
-string read_file(string filename);
+string readFile(string filename);
 
 int main(int argc, char** argv) {
   GLFWwindow* window;
@@ -53,8 +53,8 @@ int main(int argc, char** argv) {
   glVertexPointer(2, GL_FLOAT, 0, nullptr);
   glEnableClientState(GL_VERTEX_ARRAY);
 
-  string vss = read_file("vertex.vert");
-  string fss = read_file("fragment.frag");
+  string vss = readFile("shaders/vertex.vert");
+  string fss = readFile("shaders/fragment.frag");
 
   const char* vertexShaderText = vss.c_str();
   const char* fragmentShaderText = fss.c_str();
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
   return EXIT_SUCCESS;
 }
 
-string read_file(string filename) {
+string readFile(string filename) {
   ifstream t(filename);
   stringstream buffer;
   buffer << t.rdbuf();
